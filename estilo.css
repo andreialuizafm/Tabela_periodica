@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif, sans-serif;
+    margin: 25px;
+  }
+  p{
+    text-align: left;
+  }
+  b{
+    font-size:20px;
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 2px solid white; 
+  }
+  th, td {
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Arial, sans-serif;
+  }
+  th {
+    background-color: #f0f0f0;
+  }
+  td{
+    border-color:#fff;
+  }
+  .element {
+    background-color: #f0f0f0;
+    color: #000;
+    font-size: 14px;
+    padding: 5px;
+    margin: 2px;
+    border-radius:10px;
+  }
+  .hidrogenio {
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+    background-color:rgb(15, 3, 118) 
+  }
+ .gas_nobre {
+    background-color:rgb(224, 219, 159); 
+    color: #000;
+    font-size: 14px;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 10px;
+ }
+ .metal_alcalino{
+    background-color:rgb(113, 14, 106); 
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+ }
+ .alcalino_terroso{
+    background-color:rgb(248, 70, 204); 
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+ }
+ .nao_metal{
+    background-color:rgb(15, 144, 37); 
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+ }
+ .semi_metal{
+    background-color:#86aec0; 
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+ }
+ .halogenio{
+    background-color:#6989b6; 
+    border-radius: 10px;
+     margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+ }
+ .outro_metal{
+    background-color:#180cc6; 
+    border-radius: 10px;
+     margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+ }
+ .metal_transicao{
+    background-color:#eaa236; 
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000;  
+}
+ .lantanideo{
+    background-color:#c81325bc; 
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000;  
+
+ }
+ .actinidios{
+    background-color:#74040d; 
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color: #000; 
+ } 
+
+  .header {
+    background-color: #fff;
+    font-size: 25px;
+  }
